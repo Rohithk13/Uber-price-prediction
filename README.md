@@ -109,6 +109,15 @@ Click on the relevant buttons or interact with the interface elements to generat
 View the model output displayed on the Streamlit UI.
 ![image](https://github.com/Rohithk13/UBER_Trip_Price_Prediction/assets/144849666/6e197d96-417a-4537-b765-57fee4f53e64)
 
-7. Conclusions and Possible Extensions
-This section would likely draw conclusions from the modeling and suggest ways to improve or extend the analysis, perhaps by incorporating additional data or trying different modeling techniques.
+### Future Directions
+This project lays a solid groundwork for future enhancements and broader applications:
+
+#### Enhancements
+Add More Data: Including data like weather conditions and traffic updates could help improve the model’s predictions.
+
+Explore New Models: Trying out different advanced machine learning techniques could enhance the accuracy of our predictions.
+#### Applications
+For Companies and Drivers: This model can help ride-sharing companies and drivers optimize their pricing strategies.
+
+For Urban Planning: Insights from this model could assist in urban planning and transportation policy making.
 
