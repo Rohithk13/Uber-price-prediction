@@ -37,7 +37,7 @@ Data Types: merged_df.dtypes checks the types of each column to ensure correct d
 DataFrame Info: merged_df.info() provides a summary, including index dtype and columns, non-null values, and memory usage. This is useful for identifying missing data and understanding the DataFrame's structure.
 
 ##  Further Data Processing and Analysis
-While not detailed in the summary, typical next steps would include:
+Next steps would include:
 
 Data Cleaning: Handling missing values, correcting data types if necessary, and removing or filling null values.
 
